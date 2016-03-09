@@ -8,6 +8,10 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 ## Official Documentation vue js
 [vue js] (http://vuejs.org/).
 
+## Vue Resource
+
+[vue resource document](https://github.com/vuejs/vue-resource)
+
 
 ## Instalation
 
