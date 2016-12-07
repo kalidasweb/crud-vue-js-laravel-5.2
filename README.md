@@ -23,7 +23,7 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 -php artisan db:seed
 
--php artisan server
+-php artisan serve
 
 
 thanks happy coding :)
